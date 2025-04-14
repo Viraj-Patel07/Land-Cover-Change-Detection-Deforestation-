@@ -31,7 +31,7 @@ This project requires the following Python libraries:
 - `seaborn`
 - `scipy`
 
-You can install the required dependencies using `pip`:
+You can install the required dependencies using `pip`
 
 ## Usage
 
